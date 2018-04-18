@@ -1,2 +1,4 @@
 # hello-world
-Repository tutorial
+Repository tutorials
+
+Peace out, girl scout!
